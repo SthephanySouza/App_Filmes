@@ -11,12 +11,16 @@ MÉTODOS E DADOS DE AUTENTICAÇÃO
 Para conseguir obter acesso a cada método, é necessário a chave de autenticação solicitada.
 
 MÉTODOS DISPONÍVEIS
-
+https://github.com/SthephanySouza/App_Filmes/wiki/MÉTODOS-DISPONÍVEIS
 
 DADOS RETORNADOS PARA CADA MÉTODO
-
+https://github.com/SthephanySouza/App_Filmes/wiki/DADOS-RETORNADOS-PARA-CADA-MÉTODO
 
 ATRIBUTOS/PARÂMETROS SOLICITADOS POR CADA MÉTODO
-
+https://github.com/SthephanySouza/App_Filmes/wiki/ATRIBUTOS-PARÂMETROS-SOLICITADOS-POR-CADA-MÉTODO
 
 QUAL/QUAIS SERÃO IMPLEMENTADOS NA APLICAÇÃO
+https://github.com/SthephanySouza/App_Filmes/wiki/QUAL-QUAIS-SERÃO-IMPLEMENTADOS-NA-APLICAÇÃO
+
+DCU, DER, DIAGRAMA DE CLASSE E DESCRIÇÃO MOBLE
+https://github.com/SthephanySouza/App_Filmes/wiki/Modelos-de-produção-do-app
