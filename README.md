@@ -23,4 +23,4 @@ QUAL/QUAIS SERÃO IMPLEMENTADOS NA APLICAÇÃO
 https://github.com/SthephanySouza/App_Filmes/wiki/QUAL-QUAIS-SERÃO-IMPLEMENTADOS-NA-APLICAÇÃO
 
 DCU, DER, DIAGRAMA DE CLASSE E DESCRIÇÃO MOBLE
-https://github.com/SthephanySouza/App_Filmes/wiki/Modelos-de-produção-do-app
+https://github.com/SthephanySouza/App_Filmes/wiki/DCU,-DER,-DIAGRAMA-DE-CLASSE-E-DESCRIÇÃO-MOBLE
