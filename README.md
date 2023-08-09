@@ -32,3 +32,11 @@ https://github.com/SthephanySouza/App_Filmes/wiki/QUAL-QUAIS-SERÃO-IMPLEMENTADO
 #### DCU, DER, DIAGRAMA DE CLASSE E DESCRIÇÃO MOBLE
 
 https://github.com/SthephanySouza/App_Filmes/wiki/DCU,-DER,-DIAGRAMA-DE-CLASSE-E-DESCRIÇÃO-MOBLE
+
+#### DESCRIÇÃO DA API
+
+A API conterá as classes filme, ator, diretor e gênero e seus métodos sendo deletar, apenas para a classe filme, alterar, inserir e consultar.
+
+#### DESCRIÇÃO DAS FUNÇÕES DO APLICATIVO
+
+O aplicativo terá funções de login, cadastro e consultar filmes.
