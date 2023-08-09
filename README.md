@@ -37,9 +37,9 @@ https://github.com/SthephanySouza/App_Filmes/wiki/DCU,-DER,-DIAGRAMA-DE-CLASSE-E
 
 A API conterá as classes filme, ator, diretor e gênero e seus métodos sendo deletar, apenas para a classe filme, alterar, inserir e consultar.
 
-#### DESCRIÇÃO DAS FUNÇÕES DO APLICATIVO
+#### DESCRIÇÃO DAS FUNÇÕES DO APLICATIVO E MUDANÇAS
 
-O aplicativo terá funções de login, cadastro e consultar filmes.
+O aplicativo terá funções de login, cadastro e consultar filmes. Acredito que, no momento, as mudanças a serem feitas é a implementação da nossa API e do bando de dados funcioanl.
 
 #### MER E DIAGRAMA DE CLASSE
 
