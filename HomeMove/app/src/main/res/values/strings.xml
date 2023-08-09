@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HomeMove</string>
+
+    <string name="instructions">Informe o nome do filme</string>
+    <string name="btnBusca">Busca filme</string>
+    <string name="txtTitulo">Titulo filme</string>
+    <string name="loading">Carregando…</string>
+    <string name="noResults">"Nenhum resultado encontrado"</string>
+    <string name="noSearch">Informe um termo de busca</string>
+    <string name="noNetwork">verifique sua conexão.</string>
+    <string name="strEmpty">" "</string>
+
+    <string name="btnetrar">Entrar</string>
+    <string name="txtsenha">Senha</string>
+    <string name="txtlogin">Email</string>
+    <string name="message"></string>
+    <string name="btncadastro">Cadastrar</string>
+
+    <string name="Cadastrar">Cadastrar</string>
+
+    <string name="imgcateg"></string>
+</resources>
