@@ -1,5 +1,5 @@
-# App_Filmes
-Criando um novo repertório para organizar melhor o inicial
+# Move Home
+Dupla Sthephany e Willian
 
 URL DA DOCUMENTAÇÃO
 https://developers.themoviedb.org/3/getting-started/introduction
