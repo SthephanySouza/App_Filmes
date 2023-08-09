@@ -40,3 +40,7 @@ A API conterá as classes filme, ator, diretor e gênero e seus métodos sendo d
 #### DESCRIÇÃO DAS FUNÇÕES DO APLICATIVO
 
 O aplicativo terá funções de login, cadastro e consultar filmes.
+
+#### MER E DIAGRAMA DE CLASSE
+
+https://github.com/SthephanySouza/App_Filmes/wiki/MER-E-DIAGRAMA-DE-CLASSE
