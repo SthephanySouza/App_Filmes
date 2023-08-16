@@ -39,7 +39,7 @@ A API conterá as classes filme, ator, diretor e gênero e seus métodos sendo d
 
 #### DESCRIÇÃO DAS FUNÇÕES DO APLICATIVO E MUDANÇAS
 
-O aplicativo terá funções de login, cadastro e consultar filmes. Acredito que, no momento, as mudanças a serem feitas é a implementação da nossa API e do bando de dados funcioanl.
+A aplicação terá funções de consultar filmes. Acredito que, no momento, as mudanças a serem feitas é a implementação da nossa API e do bando de dados funcioanl.
 
 #### MER E DIAGRAMA DE CLASSE
 
