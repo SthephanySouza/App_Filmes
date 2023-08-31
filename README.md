@@ -43,4 +43,4 @@ A aplicação terá funções de consultar filmes. Acredito que, no momento, as 
 
 #### MER E DIAGRAMA DE CLASSE
 
-[https://github.com/SthephanySouza/App_Filmes/wiki/MER,-DER-E-DIAGRAMA-DE-CLASSE](https://github.com/SthephanySouza/App_Filmes/wiki/MER,-DER-E-DIAGRAMA-DE-CLASSE)https://github.com/SthephanySouza/App_Filmes/wiki/MER,-DER-E-DIAGRAMA-DE-CLASSE
+https://github.com/SthephanySouza/App_Filmes/wiki/MER,-DER-E-DIAGRAMA-DE-CLASSE
