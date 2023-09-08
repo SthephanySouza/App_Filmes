@@ -25,9 +25,9 @@ https://github.com/SthephanySouza/App_Filmes/wiki/DADOS-RETORNADOS-PARA-CADA-MÉ
 
 https://github.com/SthephanySouza/App_Filmes/wiki/ATRIBUTOS-PARÂMETROS-SOLICITADOS-POR-CADA-MÉTODO
 
-#### QUAL/QUAIS SERÃO IMPLEMENTADOS NA APLICAÇÃO
+#### QUAIS SERÃO IMPLEMENTADOS NA APLICAÇÃO
 
-https://github.com/SthephanySouza/App_Filmes/wiki/QUAL-QUAIS-SERÃO-IMPLEMENTADOS-NA-APLICAÇÃO
+https://github.com/SthephanySouza/App_Filmes/wiki/QUAIS-SERÃO-IMPLEMENTADOS-NA-APLICAÇÃO
 
 #### DCU, DER, DIAGRAMA DE CLASSE E DESCRIÇÃO MOBLE
 
