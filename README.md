@@ -1,5 +1,5 @@
 # Move Home
-## Dupla Sthephany e Willian
+## Dupla: Sthephany e Willian
 
 #### URL DA DOCUMENTAÇÃO
 
