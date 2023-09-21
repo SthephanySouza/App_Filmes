@@ -48,3 +48,6 @@ https://github.com/SthephanySouza/App_Filmes/wiki/MER,-DER-E-DIAGRAMA-DE-CLASSE
 ### FUNCIONAMENTO DA API
 
 https://github.com/SthephanySouza/App_Filmes/wiki/FUNCIONAMENTO-DA-API
+
+### DESCRIÇÃO DA APLICAÇÃO
+https://github.com/SthephanySouza/App_Filmes/wiki/DESCRIÇÃO-DA-APLICAÇÃO
