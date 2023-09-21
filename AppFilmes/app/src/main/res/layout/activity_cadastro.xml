@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#9F6CF7"
+    tools:context=".Cadastro">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginBottom="27dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.195"
+        tools:ignore="ContentDescription,ImageContrastCheck"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/HomeCard"
+        android:layout_width="407dp"
+        android:layout_height="421dp"
+        app:cardBackgroundColor="#9F6CF7"
+        app:cardCornerRadius="0dp"
+        app:cardElevation="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.9"
+        tools:ignore="TextSizeCheck">
+
+        <TextView
+            android:id="@+id/txtcadastro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="Cadastrar"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="34sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/nome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="100dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="Nome"
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            tools:ignore="HardcodedText,RtlHardcoded,VisualLintOverlap" />
+
+        <TextView
+            android:id="@+id/txtemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="150dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="Email"
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            tools:ignore="HardcodedText,RtlHardcoded,VisualLintOverlap" />
+
+        <TextView
+            android:id="@+id/txtsenha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="200dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="Senha"
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            tools:ignore="HardcodedText,RtlHardcoded,VisualLintOverlap" />
+
+        <TextView
+            android:id="@+id/confSenha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="250dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="Confirmar"
+            android:textAlignment="viewStart"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            tools:ignore="HardcodedText,RtlHardcoded,VisualLintOverlap" />
+
+        <EditText
+            android:id="@+id/txtsenha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="190dp"
+            android:backgroundTint="@color/white"
+            android:ems="10"
+            android:hint="@string/txtsenha"
+            android:imeOptions="actionDone"
+            android:inputType="textPassword"
+            android:minHeight="48dp"
+            tools:ignore="Autofill,DuplicateIds,DuplicateSpeakableTextCheck,HardcodedText,RtlHardcoded,TextContrastCheck" />
+
+        <EditText
+            android:id="@+id/txtconfirmar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="240dp"
+            android:backgroundTint="@color/white"
+            android:ems="10"
+            android:hint="@string/txtconfsenha"
+            android:imeOptions="actionDone"
+            android:inputType="textPassword"
+            android:minHeight="48dp"
+            tools:ignore="Autofill,HardcodedText,RtlHardcoded,TextContrastCheck" />
+
+        <EditText
+            android:id="@+id/txtemail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="140dp"
+            android:backgroundTint="@color/white"
+            android:ems="10"
+            android:hint="@string/txtemail"
+            android:imeOptions="actionDone"
+            android:inputType="textEmailAddress"
+            android:minHeight="48dp"
+            tools:ignore="Autofill,DuplicateIds,HardcodedText,RtlHardcoded,TextContrastCheck" />
+
+        <Button
+            android:id="@+id/btncadastrar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="320dp"
+            android:backgroundTint="@color/white"
+            android:fontFamily="sans-serif-medium"
+            android:onClick="Cadastrar"
+            android:text="@string/btncadastro"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            tools:ignore="RtlHardcoded" />
+
+        <EditText
+            android:id="@+id/txtnome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="90dp"
+            android:backgroundTint="@color/white"
+            android:ems="10"
+            android:hint="@string/txtnome"
+            android:imeOptions="actionDone"
+            android:inputType="text"
+            android:minHeight="48dp"
+            tools:ignore="Autofill,DuplicateIds,HardcodedText,RtlHardcoded,TextContrastCheck" />
+
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

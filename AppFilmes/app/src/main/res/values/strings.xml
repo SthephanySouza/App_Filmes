@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AppFilmes</string>
+
+    <string name="btnentrar">Entrar</string>
+    <string name="btncadastro">Cadastrar</string>
+    <string name="txtsenha">Insira sua senha</string>
+    <string name="message"></string>
+
+    <string name="txtconfsenha">Confirme sua senha</string>
+    <string name="txtemail">Insira seu email</string>
+    <string name="txtnome">Insira seu nome</string>
+
+    <string name="btninsert">Inserir Filme</string>
+    <string name="btnalterar">Alterar Filme</string>
+    <string name="btnconsultar">Buscar Filme</string>
+
+    <string name="infoFilme">Informar o nome do filme</string>
+    <string name="filmeInput">Nome Filme</string>
+
+    <string name="infoGenero">Informar o nome do gênero</string>
+    <string name="generoInput">Nome Gênero</string>
+
+    <string name="btninsertGenero">Inserir Gênero</string>
+    <string name="btnalterarGenero">Alterar Gênero</string>
+    <string name="btnconsultarGenero">Consultar Gênero</string>
+
+    <string name="btngenero">Gêneros</string>
+    <string name="btnfilme">Filmes</string>
+
+    <string name="btnadd">Adicionar</string>
+    <string name="btnup">Alterar</string>
+    <string name="btnconsul">Consultar</string>
+
+    <string name="loading">Carregando…</string>
+    <string name="no_results">"Nenhum resultado encontrado"</string>
+    <string name="no_search_term">Informe um termo de busca</string>
+    <string name="no_network">verifique sua conexão.</string>
+    <string name="str_empty">" "</string>
+</resources>
