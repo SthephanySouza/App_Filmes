@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.example.appfilmes.filme.Filmes;
+import com.example.appfilmes.genero.Generos;
 
 public class Home extends AppCompatActivity {
 
@@ -29,12 +30,12 @@ public class Home extends AppCompatActivity {
     public void Diretor(View diretor){
         Intent Diretor = new Intent(this, Diretores.class);
         startActivity(Diretor);
-    }
+    } */
 
     public void Genero(View genero){
         Intent Genero = new Intent(this, Generos.class);
         startActivity(Genero);
-    } */
+    }
     
     /* public void Insert(View view){
         Intent intent = new Intent(this, Insert.class);
